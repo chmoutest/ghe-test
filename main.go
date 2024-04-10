@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// main function
+// main function in another function
 func main() {
 	fmt.Println("Hello world")
 }
